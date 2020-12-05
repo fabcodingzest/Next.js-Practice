@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey, I am Fab. I'm a web developer dabbling with JacaScript everyday.
+          Hey, I am Fab. I'm a web developer dabbling with JavaScript everyday.
           You can contact me on{" "}
           <a target="_blank" href="https://twitter.com/fabcodingzest">
             Twitter
